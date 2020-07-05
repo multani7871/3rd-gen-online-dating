@@ -44,6 +44,8 @@ https://twitter.com/HarveyMultani/status/1279610598012182529
             -   Optimistic determinists
             -   Have healthy relationships with their families of origin or are taking active steps to manage any concerns
             - High H factor, as per Hexaco
+
+Biggest issue with current platforms is relatively low bar for compatibility. If romantic component of relationship ends, often not enough compatibility to continue even a platonic relationship. Losing compounding benefits of a long term relationship of any kind. Ideally would only match with people that a person would have a strong platonic basis to connect over. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE0ODU1MDFdfQ==
+eyJoaXN0b3J5IjpbMTI0MjI2NTE1MSwtMTMwMTQ4NTUwMV19
 -->
