@@ -46,6 +46,12 @@ https://twitter.com/HarveyMultani/status/1279610598012182529
             - High H factor, as per Hexaco
 
 Biggest issue with current platforms is relatively low bar for compatibility. If romantic component of relationship ends, often not enough compatibility to continue even a platonic relationship. Losing compounding benefits of a long term relationship of any kind. Ideally would only match with people that a person would have a strong platonic basis to connect over. 
+
+ToDos
+
+ - Add a bounty for referrals?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjI2NTE1MSwtMTMwMTQ4NTUwMV19
+eyJoaXN0b3J5IjpbMTgyNTgzMDUxNCwxMjQyMjY1MTUxLC0xMz
+AxNDg1NTAxXX0=
 -->
